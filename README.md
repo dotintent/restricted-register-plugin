@@ -113,11 +113,9 @@ Default content:
 
 ## Development
 
-Right now no pull requests will be accepted.
+WIP @AdamKobus
 
-It will change once plugin source code structure proves to be viable and unit tests coverage is increased.
-
-Please report issues on GitHub or project's JIRA space.
+Source code structure might still change in nearest future, so please keep this in mind when developing features.
 
 ### Planned work
 

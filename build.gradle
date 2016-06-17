@@ -47,7 +47,7 @@ jenkinsPlugin {
     displayName = "Restricted Registration Plugin"
     url = "https://wiki.jenkins-ci.org/display/JENKINS/Restricted+Registration+Plugin"
     gitHubUrl = "https://github.com/inFullMobile/restricted-register-plugin"
-    shortName = "restricted-register"
+    shortName = rootProject.name
     disabledTestInjection = true
     fileExtension = 'jpi'
     repoUrl = 'https://repo.jenkins-ci.org/releases'
